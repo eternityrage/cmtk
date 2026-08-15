@@ -686,5 +686,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-19b8777d-cb11-40d3-a002-ce4aedd3f8c7.mp4",
+        "metadata": {
+            "title": "CamTok Lens: A Warm Spotlight on Camila Cabello\u2019s Heart, Hits, and Iconic Moments",
+            "description": "Today on CamTok Lens, we\u2019re celebrating the magic of Camila Cabello\u2014her voice that feels like sunlight, her storytelling that hits right in the chest, and the kind of authenticity that keeps pulling us back. From the unforgettable energy of \u201cHavana\u201d to the electric chemistry of \u201cSe\u00f1orita,\u201d and the unstoppable rhythm of \u201cBam Bam,\u201d this video is a tribute to every era, every performance, and every brave little moment that makes her music feel personal. Whether you discovered her through Fifth Harmony or you\u2019ve been with her since the early solo days, this is for the fans who love her talent, her heart, and the way she turns real emotion into unforgettable sound. Like if you love Camila Cabello! Comment your favorite Camila Cabello song below! Share this with a fellow Camila fan! Follow CamTok Lens for daily Camila Cabello appreciation! #camilacabello #havana #se\u00f1orita #music #pop #singer #charts #fifthharmony #bambam #camilasquad #fanpage #appreciation #performance #tribute",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
