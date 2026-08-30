@@ -1326,5 +1326,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-3ee2fe6e-7de1-489b-9f03-5b0d0ce63dd9.mp4",
+        "metadata": {
+            "title": "CamTok Lens: A Warm Tribute to Camila Cabello\u2014From Havana to Bam Bam & Beyond \u2728",
+            "description": "Take a deep breath and let the music pull you in\u2014because today on CamTok Lens we\u2019re celebrating Camila Cabello\u2019s incredible journey with a soft, heartfelt look at the moments that made her feel like home. From the glow of \u201cHavana\u201d to the magnetic chemistry of \u201cSe\u00f1orita,\u201d and the bright confidence of \u201cBam Bam,\u201d her voice has always carried something real\u2014warmth, vulnerability, and unstoppable talent. Whether you\u2019ve been here since Fifth Harmony days or you found her through one unforgettable chorus, this fan-made tribute is for the fans who feel her authenticity in every note. Like if you love Camila Cabello! Comment your favorite Camila Cabello song below! Share this with a fellow Camila fan! Follow CamTok Lens for daily Camila Cabello appreciation, iconic performance moments, and heartfelt tributes to her music career. #camilacabello #havana #se\u00f1orita #music #pop #singer #charts #fifthharmony #bambam #camilasquad #fanpage #appreciation #performance #tribute",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
